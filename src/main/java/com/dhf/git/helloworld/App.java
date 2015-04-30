@@ -16,6 +16,7 @@ public class App
         
         System.out.println("This is the third commit...");
         
+        int value = 100; System.out.println("Modify after first commit in branch1..., value:" + value);
     }
     
     
