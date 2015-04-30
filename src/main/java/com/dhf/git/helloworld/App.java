@@ -17,7 +17,7 @@ public class App
         System.out.println("This is the third commit...");
         
         int value = 100; System.out.println("Modify after first commit in branch1..., value:" + value);
+        
+        String value2 = "abc"; System.out.println("This is the hot fix 1 in branch2..., value:" + value2);
     }
-    
-    
 }
