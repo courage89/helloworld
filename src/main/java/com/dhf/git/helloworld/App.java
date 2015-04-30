@@ -11,7 +11,7 @@ public class App
         System.out.println( "Hello World!" );
         
         System.out.println("This is the first commit...");
+        
+        String value = "abc"; System.out.println("This is the hot fix 1 in branch2..., value:" + value);
     }
-    
-    
 }
